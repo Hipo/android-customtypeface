@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="OpenSansButton">
+        <attr name="typeface" />
+    </declare-styleable>
+
+    <declare-styleable name="OpenSansEditText">
+        <attr name="typeface" />
+    </declare-styleable>
+
+    <declare-styleable name="OpenSansTextView">
+        <attr name="typeface" />
+    </declare-styleable>
+
+
+    <attr name="typeface">
+
+        <enum name="OpenSans_Bold" value="0" />
+        <enum name="OpenSans_BoldItalic" value="1" />
+        <enum name="OpenSans_ExtraBold" value="2" />
+        <enum name="OpenSans_ExtraBoldItalic" value="3" />
+        <enum name="OpenSans_Italic" value="4" />
+        <enum name="OpenSans_Light" value="5" />
+        <enum name="OpenSans_LightItalic" value="6" />
+        <enum name="OpenSans_Regular" value="7" />
+        <enum name="OpenSans_Semibold" value="8" />
+        <enum name="OpenSans_SemiboldItalic" value="9" />
+
+
+    </attr>
+
+</resources>
