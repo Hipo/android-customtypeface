@@ -43,7 +43,9 @@ And set the typeface from xml
 ```
 
 #Installation
-###### These steps are required for publishing aar file into your local repository.For further detail see https://www.linkedin.com/pulse/publishing-aar-local-repository-baris-emre-efe?trk=prof-post
+###### These steps are required for publishing aar file into your local repository.For further detail see
+ https://www.linkedin.com/pulse/publishing-aar-local-repository-baris-emre-efe?trk=prof-post
+
  - Clone library into your workspace
  - Modify build.gradle file and change the repository location
  - Run
