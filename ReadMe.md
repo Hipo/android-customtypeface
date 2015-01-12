@@ -51,13 +51,13 @@ And set the typeface from xml
  - Run
  - ```
         ./gradlew uploadArchives
-```
+   ```
 from Android Studio's terminal
 
  - Add this dependency into your project
    ```
         compile 'com.hipo.customtypeface:library:+'
-```
+   ```
 
 
 ### Credits
