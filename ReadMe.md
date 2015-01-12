@@ -33,7 +33,8 @@ public class OpenSansTextView extends TextView {
 ```
 
 And set the typeface from xml
-``` xml
+```
+
          <com.hipo.customtypeface.OpenSansTextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
