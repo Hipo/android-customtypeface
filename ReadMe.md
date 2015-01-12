@@ -49,7 +49,7 @@ And set the typeface from xml
  - Clone library into your workspace
  - Modify build.gradle file and change the repository location
  - Run
- - ```sh
+ - ```
         ./gradlew uploadArchives
 ```
 from Android Studio's terminal
